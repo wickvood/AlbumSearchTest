@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlbumSearch</string>
+    <string name="album_description">ART</string>
+
+    <string name="album_name">Album Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_tracks">Song Tracks:</string>
+    <string name="song_name">Song Name</string>
+    <string name="search">Search</string>
+</resources>
